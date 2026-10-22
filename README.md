@@ -1,7 +1,5 @@
 # .NET-Conf-2026-Vadodara
 
-![.NET Conf Logo](https://github.com/user-attachments/assets/a68a48ac-2257-40eb-9610-8ba5bfff9c5e)
-
 Welcome to the **.NET Conf 2026 Vadodara** repository! This is the official community space for announcements, event details, agenda updates, speakers, sponsors, and resources related to .NET Conf in Vadodara.
 
 ## About .NET Conf 2026 Vadodara
@@ -43,7 +41,7 @@ For questions or assistance, contact [vandit.pandya30@gmail.com](mailto:vandit.p
 
 ## Branding Note
 
-This repository uses .NET-inspired visual branding for community event communication and local coordination. For official global event information and brand assets, please refer to the official [.NET Conf website](https://dotnetconf.net/) and [.NET website](https://dotnet.microsoft.com/).
+For official global event information, visit the [Microsoft .NET Conf 2026 hub](https://dotnet.microsoft.com/en-us/conf) and the [.NET Conf website](https://www.dotnetconf.net/). The previous image was for an earlier event year, so it has been removed; a 2026 Vadodara poster can be added when one is available.
 
 ## Trademark Notice
 
