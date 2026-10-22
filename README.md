@@ -1,103 +1,52 @@
-<div align="center">
+# .NET-Conf-2026-Vadodara
 
-# .NET Conf 2026 Vadodara
+![.NET Conf Logo](https://github.com/user-attachments/assets/a68a48ac-2257-40eb-9610-8ba5bfff9c5e)
 
-### Official Repository
+Welcome to the **.NET Conf 2026 Vadodara** repository! This is the official community space for announcements, event details, agenda updates, speakers, sponsors, and resources related to .NET Conf in Vadodara.
 
-<p>
-  <a href="https://dotnetconf.net/">
-    <img alt=".NET Conf" src="https://img.shields.io/badge/.NET%20Conf-2026-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  </a>
-  <img alt="Location" src="https://img.shields.io/badge/Location-Vadodara%2C%20India-0A66C2?style=for-the-badge">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Official%20Updates-success?style=for-the-badge">
-</p>
+## About .NET Conf 2026 Vadodara
 
-<p>
-  This repository contains official announcements, event details, schedules, speaker information,
-  sponsor highlights, and resources for <strong>.NET Conf 2026 Vadodara</strong>.
-</p>
+.NET Conf is a community-focused conference for .NET developers, students, architects, and technology enthusiasts. .NET Conf 2026 Vadodara will bring the local developer community together to learn, connect, and share knowledge across the modern .NET ecosystem.
 
-</div>
+Topics may include:
 
----
-
-## 📌 About the Event
-
-**.NET Conf 2026 Vadodara** is a community-focused tech conference for developers, students, architects, and technology leaders passionate about the .NET ecosystem.
-
-Topics include:
-- .NET 10 and the modern .NET ecosystem
-- ASP.NET Core and backend architecture
+- .NET and modern application development
+- ASP.NET Core and web development
 - Cloud-native development with Azure
 - Microservices, containers, and DevOps
-- AI integrations with .NET
-- Performance, testing, and best practices
+- Artificial intelligence with .NET
+- Performance, testing, and software architecture
 
----
-
-## 🗓️ Event Details
+## Event Details
 
 - **Event:** .NET Conf 2026 Vadodara
-- **City:** Vadodara, Gujarat, India
-- **Mode:** In-person / Hybrid *(to be announced)*
-- **Date:** *To be announced*
-- **Venue:** *To be announced*
+- **Location:** Vadodara, Gujarat, India
+- **Date:** To be announced
+- **Venue:** To be announced
+- **Format:** In-person or hybrid — details will be announced
 
-> Stay tuned for official updates in this repository.
+## Agenda
 
----
+Stay tuned for updates on the agenda, including keynote speakers, session topics, workshops, and schedules.
 
-## 🧭 Repository Contents
+## Announcements
 
-This repository will be used for publishing:
+Important announcements related to the event will be posted here. Watch this repository and check back regularly for updates.
 
-- 📣 Official announcements
-- 🗂️ Session schedule and agenda
-- 🎤 Speaker lineup and profiles
-- 🤝 Sponsor and partner information
-- 📸 Event media and highlights
-- 📚 Post-event resources
+## Get Involved
 
----
+Interested in organizing, speaking, sponsoring, or supporting .NET Conf 2026 Vadodara? Please open an issue in this repository or contact the organizing team.
 
-## 🚀 Registration
+## Contact Us
 
-Registration details will be announced soon.
+For questions or assistance, contact [vandit.pandya30@gmail.com](mailto:vandit.pandya30@gmail.com).
 
-In the meantime, please:
-1. ⭐ Star this repository
-2. 👀 Watch for updates
-3. 🔁 Share with your .NET community
+## Branding Note
 
----
+This repository uses .NET-inspired visual branding for community event communication and local coordination. For official global event information and brand assets, please refer to the official [.NET Conf website](https://dotnetconf.net/) and [.NET website](https://dotnet.microsoft.com/).
 
-## 🤝 Speakers & Sponsors
+## Trademark Notice
 
-Interested in speaking or sponsoring?
+“.NET” and “.NET Conf” are trademarks of Microsoft. This repository represents an independently organized community event in Vadodara and is not intended to imply ownership of or official endorsement by Microsoft unless explicitly stated.
 
-Please open an issue in this repository with the appropriate details, or reach out to the organizing team once contact channels are published.
-
----
-
-## 📢 Announcements
-
-All official updates will be posted here first.
-
-- Check the **Releases** and **Issues** sections for major announcements.
-- Follow commits for incremental updates.
-
----
-
-## 🧑‍💻 Organizing Team
-
-Maintained by the **.NET Conf 2026 Vadodara Organizing Team**.
-
-For official communication links, keep an eye on this README and pinned repository updates.
-
----
-
-<div align="center">
-
-Made with ❤️ by the Vadodara .NET Community
-
-</div>
+Let's make **.NET Conf 2026 Vadodara** a memorable event together! ❤️
