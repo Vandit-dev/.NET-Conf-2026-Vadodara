@@ -1,4 +1,5 @@
 # .NET-Conf-2026-Vadodara
+![.NET Conf Hero](https://www.dotnetconf.net/img/conf-hero.b21gztz2hl.svg)
 
 Welcome to the **.NET Conf 2026 Vadodara** repository! This is the official community space for announcements, event details, agenda updates, speakers, sponsors, and resources related to .NET Conf in Vadodara.
 
